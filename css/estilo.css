@@ -1,0 +1,20 @@
+body{
+    background-color: #F5F5F5;
+    font-family: Dejavu Sans;
+}
+
+#formulario
+{
+    display: block;
+    margin: auto;
+}
+
+#text
+{   
+    text-align: center;
+}
+#msg
+{
+    display: block;
+    margin: auto;  
+}
